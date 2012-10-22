@@ -8,6 +8,7 @@ var configFactory = function( _, commander, path, anvil ) {
 			"pre-process",
 			"compile",
 			"post-process",
+			"package",
 			"push",
 			"test"
 		],
